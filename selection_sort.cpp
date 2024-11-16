@@ -29,6 +29,11 @@ void bubble_sort(int arr[], int n)
     }
 }
 
+int sum(int a, int b)
+{
+    return a+b;
+}
+
 int main()
 {
     int arr[] = {5,2,1,9,3};
